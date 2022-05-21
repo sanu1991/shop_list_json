@@ -4,8 +4,8 @@
     "shopName": "AGRO GROCERY",
     "area": "Thane",
     "category": "Grocery",
-    "onDay":"sunday, monday, tuesday, wednesday, friday, saturday",
-    "offDay": "thursday",
+    "onDay":"sunday, monday, tuesday, wednesday, thursday, friday",
+    "offDay": "saturday",
     "openingTime": "8 am",
     "closingTime": "8 pm"
 },
@@ -24,8 +24,8 @@
     "shopName": "URBAN ORGANIC MARKET",
     "area": "Nashik",
     "category": "Grocery",
-    "onDay":"monday, tuesday, wednesday, thursday, friday, saturday",
-    "offDay": "sunday",
+    "onDay":"sunday, monday, tuesday, wednesday, thursday, friday",
+    "offDay": "saturday",
     "openingTime": "9 am",
     "closingTime": "9 pm"
 },
